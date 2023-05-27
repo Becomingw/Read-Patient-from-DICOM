@@ -42,7 +42,7 @@ python run.py dicomfolder  # 其中dicomfolder替换为你的dicom文件夹地�
 
 ## 范例：
 
-
+![Demo](https://github.com/Becomingw/Read-Patient-from-DICOM/blob/main/demo.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
