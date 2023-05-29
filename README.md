@@ -41,6 +41,7 @@ python run.py dicomfolder  # 其中dicomfolder替换为你的dicom文件夹地�
 然后，输出文件名也可以修改，默认为’‘Patientinf.xlsx“，输出位置：脚本所在文件夹下。
 
 ## 范例：
+#### 保存所有文件版本（这个保存在文件夹的temporfile.xlsx)
 
 ![Demo](https://github.com/Becomingw/Read-Patient-from-DICOM/blob/main/demo.png)
 
