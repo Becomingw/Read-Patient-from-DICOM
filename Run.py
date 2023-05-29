@@ -7,7 +7,7 @@ from dicomPa import extract_dicom_info, excel_trans
 import pandas as pd
 
 folder_path = "0522"  # 替换为你要提取DICOM信息的文件夹路径(相对路径，建议把该脚本放在与执行文件夹同级目录)
-OUT_excel = 'patient3.xlsx'  # 最终导出excel的地址
+OUT_excel = 'patientinf.xlsx'  # 最终导出excel的地址
 
 # 主程序(以下程序非必要请勿修改)
 extract_dicom_info(folder_path)
