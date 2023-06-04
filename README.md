@@ -20,7 +20,7 @@ pydicom
 ```shell
 clone 
 cd Read_Patient_from_DICOM
-pip install requirement -i https://pypi.tuna.tsinghua.edu.cn/simple #  使用清华源
+pip install -r requirement -i https://pypi.tuna.tsinghua.edu.cn/simple #  使用清华源
 ```
 
 ## 使用：
