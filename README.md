@@ -1,4 +1,4 @@
-### 古早的脚本，留下作个纪念！
+### 刚刚开始做medical image时写的脚本，留下作个纪念！
 
 
 # Read Patient from DICOM🎞
