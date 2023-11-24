@@ -1,3 +1,6 @@
+### 古早的脚本，留下作个纪念！
+
+
 # Read Patient from DICOM🎞
 
 DICOM（Digital Imaging and Communications in Medicine）即医学数字成像和通信，是医学图像和相关信息的国际标准（ISO 12052）。DICOM被广泛应用于放射医疗，心血管成像以及放射诊疗诊断设备（X射线，CT，核磁共振，超声等）。所有患者的医学图像都以 DICOM 文件格式进行存储。这个格式包含关于患者的PHI（protected health information）信息，例如姓名，性别，年龄，以及其他图像相关信息比如捕获并生成图像的设备信息，医疗的一些上下文相关信息等。
